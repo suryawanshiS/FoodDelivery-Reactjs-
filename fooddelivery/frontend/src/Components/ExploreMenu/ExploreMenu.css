@@ -1,10 +1,11 @@
-.explore_menu{
+
+.explore-menu{
     display: flex;
     flex-direction: column;
     gap: 20px;
 
 }
-.explore_menu h1{
+.explore-menu h1{
     color: #262626;
     font-weight: 500;
 }
