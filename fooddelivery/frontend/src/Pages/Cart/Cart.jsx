@@ -1,3 +1,4 @@
+//new code
 import React, { useContext } from 'react'
 import './Cart.css'
 import { StoreContext } from '../../Context/StoreContext'
