@@ -1,3 +1,4 @@
+//code
 import React, { useContext, useState } from 'react'
 import './NavBar.css'
 import { assets } from '../../assets/assets'
